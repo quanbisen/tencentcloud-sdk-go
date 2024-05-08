@@ -1,4 +1,4 @@
-module github.com/tencentcloud/tencentcloud-sdk-go/tencentcloud/monitor
+module github.com/quanbisen/tencentcloud-sdk-go/tencentcloud/monitor
 
 go 1.14
 
